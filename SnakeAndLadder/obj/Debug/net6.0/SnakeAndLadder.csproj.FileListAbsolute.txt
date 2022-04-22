@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.exe
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.deps.json
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.runtimeconfig.json
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.dll
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\bin\Debug\net6.0\SnakeAndLadder.pdb
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.dll
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\refint\SnakeAndLadder.dll
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.pdb
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\SnakeAndLadder.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SnakeAndLadder\SnakeAndLadder\obj\Debug\net6.0\ref\SnakeAndLadder.dll
